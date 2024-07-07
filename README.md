@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project implements a cab booking system similar to Uber, featuring a backend system using Django, a MySQL database, and a React.js frontend. The system allows users to book cabs, complete trips, and manage various aspects of the cab booking process.
+This project implements a cab booking system similar to Uber, a MySQL database, and a Command Line Interface using Python. The system allows users to book cabs, complete trips, and manage various aspects of the cab booking process.
 
 ## Key Features
 
